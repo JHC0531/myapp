@@ -1,4 +1,0 @@
-﻿session_id,title,file,phase,app_group,page_size
-fake-01,가짜 1차시,가짜_1차시.csv,1,I,12
-fake-02,가짜 2차시,가짜_2차시.csv,1,I,12
-fake-03,가짜 3차시,가짜_3차시.csv,2,II,12
